@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajaumer801
 - 👀 I’m interested in Web Development, DevOps
-- 🌱 I’m currently learning VueJs
 - 📫 How to reach me raja.umer801@gmail.com
 
 <!---
